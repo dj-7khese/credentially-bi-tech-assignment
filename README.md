@@ -7,6 +7,11 @@ This project analyzes delays and trends in the reference-checking process at Cre
 
 ## 📈 Dashboard Link  
 👉 [View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/ReferenceTurnaroundDashboard/ReferenceTurnaroundDashboard)
+## 📊 Interactive Dashboard
+
+[![Reference Turnaround Dashboard](https://public.tableau.com/thumb/views/ReferenceTurnaroundDashboard/ReferenceTurnaroundDashboard)](https://public.tableau.com/shared/48SF67FP5?:display_count=n&:origin=viz_share_link)
+
+👉 **[Click here to view the full interactive dashboard](https://public.tableau.com/shared/48SF67FP5?:display_count=n&:origin=viz_share_link)**
 
 ---
 
