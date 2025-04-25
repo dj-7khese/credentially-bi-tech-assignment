@@ -32,7 +32,7 @@ This project analyzes delays and trends in the reference-checking process at Cre
 
 ## 📊 Example Insight
 
-> 📈 **Insight:** While references are typically submitted within 2.4 days, the average review time lags behind at 97 days — highlighting a major opportunity to streamline internal approvals.
+> 📈 **Insight:** While references are typically submitted within a day, the average review time lags behind at 232 days — highlighting a major opportunity to streamline internal approvals.
 
 ---
 
