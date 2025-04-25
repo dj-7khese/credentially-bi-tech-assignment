@@ -1,29 +1,63 @@
-# Credentially BI Tech Assignment
+# 📊 Credentially BI Tech Assignment
 
 ## 🔍 Overview
-This project analyzes reference-check delays in the hiring process using the data provided by Credentially.  
-The dashboard highlights bottlenecks in reference submission and approval timelines to support faster hiring.
+This project analyzes delays and trends in the reference-checking process at Credentially. The dashboard focuses on optimizing the submission and review time of candidate references — a critical bottleneck in the hiring pipeline.
 
-## 📊 Dashboard
-👉 [View the Interactive Tableau Dashboard](https://public.tableau.com/views/ReferenceTurnaroundDashboard/ReferenceTurnaroundDashboard)
+---
 
-## ✅ Key Metrics
-- **Average Time to Submit**
-- **Average Time to Review**
-- **Outstanding References**
-- **Reference Requests Trend (Monthly)**
-- **Delayed References Table (Excel-Style Format)**
+## 📈 Dashboard Link  
+👉 [View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/ReferenceTurnaroundDashboard/ReferenceTurnaroundDashboard)
 
-## 🧠 Insights
-- Average reference submission time: X days (adjust if you want)
-- Review time post-submission: Y days
-- Roles or jobs with longest pending references: [Optional]
+---
+
+## ✅ Key Metrics (Last 6 Months Snapshot)
+
+| Metric                     | Value |
+|----------------------------|-------|
+| **Avg. Time to Submit**    | 2.4 days |
+| **Avg. Time to Review**    | 97 days |
+| **Outstanding References** | 2 |
+
+---
+
+## 📌 Components Included
+
+- **Dynamic Filters**: Date Range, Assigned To, Job Position Status, Ref Status, Role  
+- **KPI Tiles**: Core metrics on submission and review turnaround
+- **Trend Line**: Reference requests over time
+- **Bar Chart**: Avg. review time by job role
+- **Excel-Style Table**: Detailed view of delayed references
+
+---
+
+## 📊 Example Insight
+
+> 📈 **Insight:** While references are typically submitted within 2.4 days, the average review time lags behind at 97 days — highlighting a major opportunity to streamline internal approvals.
+
+---
 
 ## ⚙️ Tools Used
-- Tableau Public
-- CSV data from prepared semantic model
 
-## 📁 Data Notes
-- Cleaned status inconsistencies
-- Handled missing and delayed timestamps
-- Enabled dynamic date range selection via parameter
+- Tableau Public (Interactive BI)
+- Semantic model data (CSV format)
+- Calculated fields: `Time to Submit`, `Time to Review`, `Outstanding Reference Flag`
+
+---
+
+## 📁 Data Handling
+
+- Handled missing values in `Completed Date` and `Approved Date`
+- Created calculated fields to track turnaround metrics
+- Filtered by real-time parameters for interactive exploration
+
+---
+
+## 🧠 Suggested Business Impact
+
+- Add automated follow-ups after 3 days of inactivity
+- Flag references pending review > 14 days
+- Prioritize roles with highest delay (e.g., “Black Tea”, “Black Night” at 46-day avg. review)
+
+---
+
+📬 For any further explanation or walkthroughs, feel free to reach out!
