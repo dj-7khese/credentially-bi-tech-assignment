@@ -10,7 +10,7 @@ This project analyzes delays and trends in the reference-checking process at Cre
 
 ---
 
-## ✅ Key Metrics (Last 6 Months Snapshot)
+## ✅ Key Metrics (Last 6 Months)
 
 | Metric                     | Value |
 |----------------------------|-------|
