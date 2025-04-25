@@ -1,12 +1,29 @@
-# credentially-bi-tech-assignment
+# Credentially BI Tech Assignment
 
-A reference is requested for a specific candidate to verify their reliability with third parties. Once a reference is requested, it goes through the stages of **"submitted"** and then **"reviewed."** It is important to receive and review the reference as soon as possible to speed up the hiring process.  
+## 🔍 Overview
+This project analyzes reference-check delays in the hiring process using the data provided by Credentially.  
+The dashboard highlights bottlenecks in reference submission and approval timelines to support faster hiring.
 
-In the repository, you will find a pre-prepared semantic model along with sources describing references, the job positions for which they were requested, and some other data related to job positions.  
+## 📊 Dashboard
+👉 [View the Interactive Tableau Dashboard](https://public.tableau.com/views/ReferenceTurnaroundDashboard/ReferenceTurnaroundDashboard)
 
-### Task  
+## ✅ Key Metrics
+- **Average Time to Submit**
+- **Average Time to Review**
+- **Outstanding References**
+- **Reference Requests Trend (Monthly)**
+- **Delayed References Table (Excel-Style Format)**
 
-1. **Fork the provided repository to your own account.** Please complete the assignment within this forked repository.
-2. **Load and analyze the data** that will be used to build this report. What issues do you see with the data, and how can they be addressed?  
-3. **Build a simple dashboard** based on the prepared semantic model and some calculations that may be useful to you. Highlight the key metrics that you would emphasize for the client as the most significant in the context of references. Feel free to modify the semantic model/calculations for your purposes.  
-4. **When you are finished, please send us the link to your forked repository** with the changes you made, including your dashboard. If you have any questions, please don't hesitate to ask.
+## 🧠 Insights
+- Average reference submission time: X days (adjust if you want)
+- Review time post-submission: Y days
+- Roles or jobs with longest pending references: [Optional]
+
+## ⚙️ Tools Used
+- Tableau Public
+- CSV data from prepared semantic model
+
+## 📁 Data Notes
+- Cleaned status inconsistencies
+- Handled missing and delayed timestamps
+- Enabled dynamic date range selection via parameter
