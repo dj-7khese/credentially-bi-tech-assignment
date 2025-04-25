@@ -14,9 +14,9 @@ This project analyzes delays and trends in the reference-checking process at Cre
 
 | Metric                     | Value |
 |----------------------------|-------|
-| **Avg. Time to Submit**    | 2.4 days |
-| **Avg. Time to Review**    | 97 days |
-| **Outstanding References** | 2 |
+| **Avg. Time to Submit**    | 0.7 days |
+| **Avg. Time to Review**    | 232 days |
+| **Outstanding References** | 45 |
 
 ---
 
