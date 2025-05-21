@@ -1,4 +1,4 @@
-# 📊 Credentially BI Tech Assignment
+# 📊 Credentially
 
 ## 🔍 Overview
 This project analyzes delays and trends in the reference-checking process at Credentially. The dashboard focuses on optimizing the submission and review time of candidate references — a critical bottleneck in the hiring pipeline.
